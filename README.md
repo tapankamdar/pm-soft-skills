@@ -1,4 +1,4 @@
-# PM Skills Plugin
+# PM Soft Skills Plugin
 
 Practical guidance for the recurring tasks every product manager faces. Each skill distills the frameworks, principles, and hard-won lessons from Tapan Kamdar's writing — built to teach the *why* behind the move, not just the format.
 
