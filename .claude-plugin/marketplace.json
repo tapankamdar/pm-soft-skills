@@ -1,0 +1,14 @@
+{
+  "name": "pm-soft-skills",
+  "owner": {
+    "name": "Tapan Kamdar",
+    "url": "https://www.linkedin.com/in/tkamdar/"
+  },
+  "plugins": [
+    {
+      "name": "pm-soft-skills",
+      "source": ".",
+      "description": "PM guidance skills across various themes — distilled from Tapan Kamdar's Building Blocks newsletter, 'That's What Makes a Great PM' series, and the book Level Up. Covers writing, communication & influence, planning, meetings & decisions, people & feedback, team leadership, and research & discovery."
+    }
+  ]
+}

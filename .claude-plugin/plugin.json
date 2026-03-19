@@ -1,0 +1,9 @@
+{
+  "name": "pm-soft-skills",
+  "version": "0.1.0",
+  "description": "Practical PM guidance distilled from Tapan Kamdar's Building Blocks newsletter, 'That's What Makes a Great PM' series, AI Force Multiplier series, and the book Level Up. Covers 27 PM tasks across 7 themes: Writing & Docs, Communication & Influence, Planning & Strategy, Meetings & Decisions, People & Feedback, Team Leadership, and Research & Discovery.",
+  "author": {
+    "name": "Tapan Kamdar"
+  },
+  "keywords": ["product management", "PM skills", "leadership", "communication", "strategy"]
+}
