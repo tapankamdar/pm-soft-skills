@@ -36,6 +36,7 @@ The `skills/*/SKILL.md` files follow the universal skill format and work with an
 
 | Tool | How to use | What works |
 |---|---|---|
+| GitHub Copilot | Copy `.github/` folder to your project root | Prompts + Instructions |
 | Gemini CLI | Copy skill folders to `~/.gemini/skills/` | Skills only |
 | OpenCode | Copy skill folders to `.opencode/skills/` | Skills only |
 | Cursor | Copy skill folders to `.cursor/skills/` | Skills only |
@@ -48,6 +49,14 @@ cp -r skills/* .opencode/skills/
 # Example: copy all skills for Gemini CLI (global)
 cp -r skills/* ~/.gemini/skills/
 ```
+
+### GitHub Copilot (VS Code / GitHub.com)
+
+1. Copy the `.github/` folder into your project root
+2. Open Copilot Chat in VS Code
+3. Type `#` and select any `pm-*` prompt to start coaching
+
+See [GITHUB-COPILOT-SETUP.md](GITHUB-COPILOT-SETUP.md) for full details.
 
 ---
 
